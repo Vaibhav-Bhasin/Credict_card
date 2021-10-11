@@ -1,1 +1,4 @@
-It is a program which checks if the Credict card is valid or not
+'''Credit Card Validator
+Takes in a credit card number from a common credit card vendor
+(Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number
+(look into how credit cards use a checksum).'''
